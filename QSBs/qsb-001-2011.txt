@@ -12,7 +12,7 @@ VT-d technology, the other one, even more critical, is a bug in our GUI
 virtualization daemon. Users of Qubes Beta 1 are encouraged to update
 immediately.
 
-The update instructions are described here:
+The update instructions are described here:-
 
 http://wiki.qubes-os.org/trac/wiki/SoftwareUpdateDom0
 
